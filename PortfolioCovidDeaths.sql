@@ -3,6 +3,8 @@ Covid19 Data Exploration
 
 Skills used Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+Programs used: MySQL WorkBench, Microsoft Excel, Tableau Public
+
 */
 
 SELECT * 
